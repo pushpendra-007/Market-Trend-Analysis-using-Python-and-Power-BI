@@ -12,6 +12,12 @@ The dashboard was built using Power BI, while Python was used for data cleaning 
 
 ---
 
+## 📊 Dashboard Preview
+
+![Reliance Market Trend Analysis Dashboard](dashboard.png)
+
+---
+
 ## 🛠️ Tools & Technologies
 
 - Python
